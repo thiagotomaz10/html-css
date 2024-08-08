@@ -78,7 +78,7 @@ section.imagem {
     background-attachment: fixed;
 }
 
-section.imagem > p {
+section.imagem>p {
     display: inline-block;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.600);
@@ -88,12 +88,12 @@ section.imagem > p {
 section#img01 {
     background-image: url("../imagens/background001.jpg");
     background-position: right center;
-    
+
 }
 
 section#img02 {
     background-image: url("../imagens/background002.jpg");
-    
+
 }
 
 footer {
